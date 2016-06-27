@@ -1,2 +1,4 @@
-# SCNN
-spiking convolutional neuron network 
+# SC
+# spiking convolutional neuron network 
+# lets start
+how are you 
