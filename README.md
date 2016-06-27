@@ -1,2 +1,3 @@
 # SCNN
-spiking convolutional neuron network 
+# spiking convolutional neuron network 
+# lets start
